@@ -1,11 +1,10 @@
-## Hi 👋, I'm Steven Loaiza. Welcome to my GitHub.
-
+<img src="./imagerepo/Image 2.jpg"/></img>
 ### Summary
 A seasoned AI/ML professional leading the Claims AI/ML team at GEICO. Directing the comprehensive transformation of our AI system(s) to provide a seamless End to End claims experience for both our customer and adjuster.
 
 Responsible for the development of the technical design, long-term strategy and setting the direction for the team. Focusing on important initiatives with large business impact, strategic value and committed to on-time deliverables.
 
-In 4Q24 I'm spending my free time learning about LLM-Agent workflows, front-end web applications , Kafka, and potentially Java.
+In 1Q25 I'm spending my free time learning about LLM-Agent workflows, front-end web applications , Kafka, and Rust.
 
 **Languages and Tools:**
 
